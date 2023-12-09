@@ -23,7 +23,7 @@ const Navbar = () => {
           }}
           >
             <img src={logo} alt="logo" className="w-24 h-24 object-contain"/>
-            <p className="text-white text-[18px] font-bold cursor-pointer flex">Vamsi &nbsp;<span className="sm:block hidden">  | Portfolio</span></p>
+            <p className="text-white text-[18px] font-bold cursor-pointer flex">Vamsi &nbsp;<span className="sm:block hidden">  Barmavath </span></p>
         </Link>
         <ul 
         className="list-none hidden sm:flex flex-row gap-10"> 

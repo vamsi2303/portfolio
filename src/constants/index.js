@@ -146,7 +146,7 @@ import {
       company_name: "APSDMA",
       icon: shopify,
       iconBg: "#383E56",
-      date: "Jan 2022 - Jan 2023",
+      date: "Oct 2019 - Mar 2020",
       points: [
         "Assisted in the development of web applications using HTML, CSS, JavaScript, and frameworks like React and Angular.",
         "Assisted in the implementation of RESTful APIs and backend services using Node.js and Express.",
@@ -159,7 +159,7 @@ import {
       company_name: "Exposys Data Labs",
       icon: meta,
       iconBg: "#E6DEDD",
-      date: "Jan 2023 - Present",
+      date: "Aug 2019 - Oct 2019",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
