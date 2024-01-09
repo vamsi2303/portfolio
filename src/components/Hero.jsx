@@ -43,6 +43,8 @@ import { motion } from "framer-motion";
 
 import { styles } from "../styles";
 import { ComputersCanvas } from "./canvas";
+import { Bio } from "../constants";
+import { Typewriter } from 'react-simple-typewriter';
 
 const Hero = () => {
   return (
@@ -57,11 +59,23 @@ const Hero = () => {
 
         <div>
           <h1 className={`${styles.heroHeadText} text-white`}>
-            Hi, I'm <span className='text-[#915EFF]'>Vamsi</span>
+            Hi, I'm <span className='text-[#915EFF]'>{Bio.name}</span>
           </h1>
-          <p className={`${styles.heroSubText} mt-2 text-white-100`}>
+          {/* <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             I develop Web applications, user <br className='sm:block hidden' />
             interfaces
+          </p> */}
+          <p>
+            I am a
+                            
+             <Typewriter
+               options={{
+                   strings: Bio.roles,
+                   autoStart: true,
+                   loop: true,
+                         }}
+             />
+                           
           </p>
         </div>
       </div>

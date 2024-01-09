@@ -50,7 +50,7 @@ const About = () => {
     >
       I am a dedicated and innovative software developer 
       with a passion for crafting efficient, user-centric solutions. 
-      With almost 4 of hands-on experience in the field, 
+      With almost 4 years of hands-on experience in the field, 
       I thrive in dynamic environments, leveraging emerging 
       technologies to deliver robust applications and drive
        impactful results.

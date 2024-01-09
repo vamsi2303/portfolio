@@ -121,7 +121,7 @@ import {
       company_name: "MasterCard",
       icon: starbucks,
       iconBg: "#383E56",
-      date: "Feb 2022 - Oct 2023",
+      date: "Jan 2023 - Present",
       points: [
         "Used Spring Core annotations for Spring Dependency Injection, Spring MVC for Rest API and Spring Boot for Microservices.",
         "Integrated with Spring Cloud projects to provide distributed tracing and other features.",
@@ -131,10 +131,10 @@ import {
     },
     {
       title: "Full Stack Developer",
-      company_name: "Tifin Fintech",
+      company_name: "HCL",
       icon: tesla,
       iconBg: "#E6DEDD",
-      date: "Aug 2020 - Dec 2022",
+      date: "Jan 2020 - Dec 2022",
       points: [
         "Built rich prototypes and applications using HTML5, CSS3, JavaScript, and jQuery, Ajax, JSON, Angular.js and Bootstrap.",
         "Development of Micro Services for all the models using combination of Spring Boot and Spring Security.",
@@ -146,7 +146,7 @@ import {
       company_name: "APSDMA",
       icon: shopify,
       iconBg: "#383E56",
-      date: "Oct 2019 - Mar 2020",
+      date: "Aug 2019 - Dec 2019",
       points: [
         "Assisted in the development of web applications using HTML, CSS, JavaScript, and frameworks like React and Angular.",
         "Assisted in the implementation of RESTful APIs and backend services using Node.js and Express.",
@@ -159,7 +159,7 @@ import {
       company_name: "Exposys Data Labs",
       icon: meta,
       iconBg: "#E6DEDD",
-      date: "Aug 2019 - Oct 2019",
+      date: "Mar 2019 - May 2019",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -257,6 +257,18 @@ import {
       image: tripguide,
       source_code_link: "https://github.com/vamsi2303/e-store",
     },
+   
+    
   ];
+  const Bio = {
+    name: "Vamsi",
+    roles: [
+      "Full Stack Developer",
+      "Android Developer",
+      "UI/UX Designer",
+      "Programmer",
+    ],
+  }
   
-  export { services, technologies, experiences, testimonials, projects };
+  
+  export {Bio,services, technologies, experiences, testimonials, projects };
