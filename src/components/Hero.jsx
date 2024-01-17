@@ -65,18 +65,7 @@ const Hero = () => {
             I develop Web applications, user <br className='sm:block hidden' />
             interfaces
           </p> */}
-          <p>
-            I am a
-                            
-             <Typewriter
-               options={{
-                   strings: Bio.roles,
-                   autoStart: true,
-                   loop: true,
-                         }}
-             />
-                           
-          </p>
+         
         </div>
       </div>
 

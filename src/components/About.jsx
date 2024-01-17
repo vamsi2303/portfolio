@@ -53,7 +53,7 @@ const About = () => {
       With almost 4 years of hands-on experience in the field, 
       I thrive in dynamic environments, leveraging emerging 
       technologies to deliver robust applications and drive
-       impactful results.
+      impactful results.
 
     </motion.p>
     <div className="mt-20, flex flex-wrap gap-10">
